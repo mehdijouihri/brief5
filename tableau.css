@@ -1,0 +1,59 @@
+body{
+    background-color:rgb(177, 174, 174);
+    padding: 12px;
+}
+.tab1 { 
+    text-align: center;
+   background-image: url('header.jpg');
+   width: 900px;
+   height: 15em;
+   margin: auto;
+}
+.buton {
+    text-align: center;
+    width: 95%;
+    height: 40px;
+}
+.MMenu {
+    border:  black ridge;
+    width: 220px;
+    border-radius: 10px;
+}
+.arr {
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+    height: 2000px;
+    background-color: white;
+    text-indent: 2em;
+}
+.blk {
+    border:  black ridge;
+    width: 220px;
+    border-radius: 10px;
+}
+.Gallery {
+    position: absolute;
+    top: 340px;
+    left: 530px;
+    width: 620px;
+    height: 123px;
+}
+.Gallery2 {
+    position: absolute;
+    top: 580px;
+    left: 530px;
+    width: 620px;
+    height: 123px;
+}
+.liste1 {
+    position: absolute;
+    top: 940px;
+    left: 530px;
+    width: 620px;
+    height: 123px;
+}
+.footer {
+    text-align: center;
+}
